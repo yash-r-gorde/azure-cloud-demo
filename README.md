@@ -1,38 +1,14 @@
-# Azure Cloud Demo Project 🌐
+# Azure Static Website Demo 🌐
 
-This is a simple project created to demonstrate hands-on experience with **Microsoft Azure fundamentals**.  
+This is a simple static website hosted on **Microsoft Azure Blob Storage** using the free student tier.
 
-## 🔹 Project Overview
-- Deployed a simple **Hello World web app** using **Azure App Service**.  
-- Configured **Azure Storage Account** with **Static Website Hosting** to serve HTML content.  
-- Organized resources using **Resource Groups** for better cost and governance management.  
-- Enabled **Azure Active Directory (Entra ID)** with Role-Based Access Control (RBAC) for secure access.  
-- Used **Azure CLI & Cloud Shell** to create and manage resources.  
+## 🔗 Live Demo
+[Click here to view the website](https://yashrgordecloudstorage21.z29.web.core.windows.net/)
 
-## 🔹 Services Used
-- Azure App Service  
-- Azure Storage (Blob Static Website Hosting)  
-- Azure Active Directory (Entra ID)  
-- Azure CLI / Cloud Shell  
-- Azure Cost Management  
+## ⚙️ Tech Stack
+- Microsoft Azure (Blob Storage, Static Website Hosting)
+- HTML, CSS
 
-## 🔹 Steps to Reproduce
-1. Create a Resource Group in Azure Portal.  
-2. Deploy a simple web app to **Azure App Service**.  
-3. Enable a **Storage Account** and configure static website hosting.  
-4. Upload `index.html` file.  
-5. Access the website via Azure-provided endpoint.  
+## 📌 About
+Deployed a static HTML page with Cognizant-inspired design using Azure's cloud platform to demonstrate fundamental knowledge of cloud hosting, storage accounts, and static web apps.
 
-## 🔹 Demo Link
-👉 [Live Demo on Azure](YOUR_AZURE_LINK_HERE)  
-
-## 🔹 Screenshots
-- Azure Portal Resource Group  
-- App Service Deployment  
-- Static Website Endpoint  
-
----
-
-This project was built as part of preparing for **AZ-900 (Microsoft Azure Fundamentals)** certification and to gain hands-on experience with cloud concepts.
-
-# azure-cloud-demo
