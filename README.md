@@ -35,3 +35,4 @@ This is a simple project created to demonstrate hands-on experience with **Micro
 
 This project was built as part of preparing for **AZ-900 (Microsoft Azure Fundamentals)** certification and to gain hands-on experience with cloud concepts.
 
+# azure-cloud-demo
