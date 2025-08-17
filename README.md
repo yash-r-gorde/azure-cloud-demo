@@ -10,5 +10,5 @@ This is a simple static website hosted on **Microsoft Azure Blob Storage** using
 - HTML, CSS
 
 ## 📌 About
-Deployed a static HTML page with Cognizant-inspired design using Azure's cloud platform to demonstrate fundamental knowledge of cloud hosting, storage accounts, and static web apps.
+Deployed a static HTML page using Azure's cloud platform to demonstrate fundamental knowledge of cloud hosting, storage accounts, and static web apps.
 
